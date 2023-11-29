@@ -1,32 +1,32 @@
-{
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+
+    "name": "pollo mecha mecha",
+    "description": "usalo sabiamente para farfadox",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "thomy744"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "C:\Users\Estudiante\Pictures\Camera Roll\descargar (9).jpeg"
     },
     "manifest_version": 3,
     "mod":
     {
         "license": "license.txt",
-        "payload":
+        "payload":thomy744
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "C:\Users\Estudiante\Downloads\Pollo caminando con Mecha Mecha de fondo.mp3",
+                "C:\Users\Estudiante\Downloads\Pollo caminando con Mecha Mecha de fondo.mp3",
+                "C:\Users\Estudiante\Downloads\Pollo caminando con Mecha Mecha de fondo.mp3",
+                "C:\Users\Estudiante\Downloads\Pollo caminando con Mecha Mecha de fondo.mp3"
             ],
             "browser_sounds":
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "C:\Users\Estudiante\Downloads\FIUMBA.mp3.mp3"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
@@ -53,12 +53,13 @@
                     "sound/level_upgrade.mp3"
                 ],
                 "LIMITER_OFF":
+              
                 [
-                    "sound/limiter_off.mp3"
+                    "C:\Users\Estudiante\AppData\Roaming\Wondershare\Wondershare Filmora\Output\mecha mecha-1-highlight.mp4"
                 ],
                 "LIMITER_ON":
                 [
-                    "sound/limiter_on.mp3"
+                    "C:\Users\Estudiante\Downloads\Efecto de Sonido ALERTA para vídeos de youtube 2020.mp3"
                 ],
                 "SWITCH_TOGGLE":
                 [
@@ -66,11 +67,11 @@
                 ],
                 "TAB_CLOSE":
                 [
-                    "sound/close_tab.mp3"
+                    "C:\Users\Estudiante\Downloads\bromita sonido.mp3"
                 ],
                 "TAB_INSERT":
                 [
-                    "sound/new_tab.mp3"
+                    "C:\Users\Estudiante\Downloads\sonido de alguien cagando meme.mp3"
                 ],
                 "TAB_SLASH":
                 [
@@ -180,4 +181,3 @@
         "schema_version": 1
     },
     "version": "1.0"
-}
